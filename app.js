@@ -1,6 +1,6 @@
-  var licznik = 1;
+  var licznik = 1 ;
 
-  function generuj(id) {
+  function kolko(id) {
     if (id == "div1") {
       if (document.getElementById("div1").style.backgroundColor === "yellow") {
         return;
