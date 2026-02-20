@@ -317,7 +317,6 @@ function remis() {
     document.querySelector(".win").innerHTML = "Remis";
     document.getElementById("reset").style.visibility = "visible";
     stan = 1;
-    console.log("dupa");
     return;
   }
 }
